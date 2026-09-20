@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;0,900;1,700&family=Noto+Sans+JP:wght@400;500;700;900&family=Oswald:wght@500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Montserrat", "Noto Sans JP", system-ui, sans-serif;
+  --font-display: "Oswald", "Noto Sans JP", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+/* Custom styles for high-end look */
+.glow-red {
+  box-shadow: 0 0 20px rgba(239, 68, 68, 0.4);
+}
+
+.glow-red-hover:hover {
+  box-shadow: 0 0 30px rgba(239, 68, 68, 0.65);
+}
+
+/* Smooth scroll behaviors */
+html {
+  scroll-behavior: smooth;
+}

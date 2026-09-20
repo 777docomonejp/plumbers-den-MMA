@@ -1,0 +1,6 @@
+{
+  "name": "プラマーズデン　MMAクラス受付ページ",
+  "description": "庄内駅近くのパーソナルジム、プラマーズデン。初心者から本格的なトレーニングまで、一人ひとりに合わせた指導を行っています。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
