@@ -21,7 +21,7 @@ export default function GymAccess() {
             アクセス・所在地
           </h2>
           <p className="text-sm text-neutral-400 max-w-xl mx-auto">
-            プラマーズデン MMA Academyは阪急宝塚線「庄内駅」から徒歩圏内。天神川の爽やかな風が吹く環境に位置しています。
+            プラマーズデン MMA Academyは阪急宝塚線「庄内駅」から徒歩圏内。天竺川の爽やかな風が吹く環境に位置しています。
           </p>
         </div>
 
@@ -84,7 +84,7 @@ export default function GymAccess() {
                   <div>
                     <span className="font-bold text-white block mb-0.5">電車でお越しの方</span>
                     <p className="leading-relaxed">
-                      阪急宝塚線<strong>「庄内駅」東口</strong>から徒歩約10分。天神川東側川沿いのビル1階にございます。
+                      阪急宝塚線<strong>「庄内駅」東口</strong>から徒歩約10分。天竺川東側川沿いのビル1階にございます。
                     </p>
                   </div>
                 </div>
