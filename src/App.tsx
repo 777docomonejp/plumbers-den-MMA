@@ -52,9 +52,6 @@ export default function App() {
               <span className="text-[11px] sm:text-xs font-black text-red-500 tracking-wider leading-tight whitespace-nowrap">
                 総合格闘技クラス専用ページ
               </span>
-              <span className="text-[9px] md:text-[10px] text-neutral-400 font-medium leading-normal mt-0.5">
-                総合格闘技以外のお問い合わせは <span className="text-white font-bold whitespace-nowrap">06-7898-0888</span> にお問い合わせお願いします
-              </span>
             </div>
           </div>
 
@@ -229,7 +226,7 @@ export default function App() {
                   <div>
                     <span className="font-bold text-white block mb-0.5 text-xs">MMAクラス時間 / クラス開催日</span>
                     <span>
-                      19:00 〜 21:30 (毎週 月・金・土 ※土曜は不定期)
+                      19:30 〜 21:30 (毎週 月・金・土 ※土曜は不定期)
                     </span>
                   </div>
                 </li>

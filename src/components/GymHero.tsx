@@ -174,7 +174,7 @@ export default function GymHero({ onNavigate }: GymHeroProps) {
               <Calendar className="w-5 h-5" />
             </div>
             <div>
-              <h5 className="text-sm font-bold text-white mb-1">MMAクラス：19:00 〜 21:30 (月・金・土)</h5>
+              <h5 className="text-sm font-bold text-white mb-1">MMAクラス：19:30 〜 21:30 (月・金・土)</h5>
               <p className="text-xs text-neutral-400 leading-relaxed">
                 仕事や学校帰りの時間帯に開催（※土曜日はジムイベント等により不定期開催）。ご都合に合わせてご参加いただけます。
               </p>

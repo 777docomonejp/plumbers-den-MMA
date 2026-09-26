@@ -66,7 +66,7 @@ export default function GymAccess() {
                     <div>
                       <span className="text-[10px] text-neutral-500 block uppercase font-bold leading-none mb-1">MMAクラス時間 / クラス開催日</span>
                       <span className="text-white">
-                        19:00 〜 21:30 <span className="text-red-500 font-bold">（毎週 月・金・土 ※土曜は不定期）</span>
+                        19:30 〜 21:30 <span className="text-red-500 font-bold">（毎週 月・金・土 ※土曜は不定期）</span>
                       </span>
                     </div>
                   </div>
